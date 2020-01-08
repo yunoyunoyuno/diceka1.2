@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/diceka1.2/static/css/main.61c64d6e.chunk.css",
+    "main.js": "/diceka1.2/static/js/main.c9daadb7.chunk.js",
+    "main.js.map": "/diceka1.2/static/js/main.c9daadb7.chunk.js.map",
+    "runtime-main.js": "/diceka1.2/static/js/runtime-main.40e8f036.js",
+    "runtime-main.js.map": "/diceka1.2/static/js/runtime-main.40e8f036.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/diceka1.2/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c3eff974.chunk.js": "/diceka1.2/static/js/2.c3eff974.chunk.js",
+    "static/js/2.c3eff974.chunk.js.map": "/diceka1.2/static/js/2.c3eff974.chunk.js.map",
+    "index.html": "/diceka1.2/index.html",
+    "precache-manifest.dcd48a0aa901b378d3a8ba5c6ccdf48b.js": "/diceka1.2/precache-manifest.dcd48a0aa901b378d3a8ba5c6ccdf48b.js",
+    "service-worker.js": "/diceka1.2/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/diceka1.2/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.61c64d6e.chunk.css.map": "/diceka1.2/static/css/main.61c64d6e.chunk.css.map",
+    "static/js/2.c3eff974.chunk.js.LICENSE": "/diceka1.2/static/js/2.c3eff974.chunk.js.LICENSE",
+    "static/media/logo.png": "/diceka1.2/static/media/logo.b61bab35.png",
+    "static/media/math.jpg": "/diceka1.2/static/media/math.5360fa44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40e8f036.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c3eff974.chunk.js",
+    "static/css/main.61c64d6e.chunk.css",
+    "static/js/main.c9daadb7.chunk.js"
+  ]
+}
